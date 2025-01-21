@@ -2,4 +2,4 @@
 
 * octodog 1 😈
 
-* joseph c test merge
+* joseph c testing merge
